@@ -9,10 +9,10 @@
     <base href="<?php echo $_SERVER["PHP_SELF"]; ?>">
 
     <link rel="stylesheet" href="resources/css/index.css">
-
-    <title>Index</title>
+    
+    <title>Error</title>
 </head>
 <body>
-    <h1>This is a example</h1>
+    <h1>Error</h1>
 </body>
 </html>
